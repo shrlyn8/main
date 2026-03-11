@@ -159,9 +159,11 @@ This is a Bootstrap popup modal example.
 </div>
 </div>
 
-<!-- Footer -->
-<footer class="bg-dark text-white text-center p-3 mt-5">
-<p>© 2026 My Bootstrap Website</p>
+<footer class="text-white text-center p-4 mt-5">
+
+<p class="mb-1">© 2026 My Bootstrap Website</p>
+<p class="small">Built with Bootstrap 5</p>
+
 </footer>
 
 <!-- Bootstrap JS -->
